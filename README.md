@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @muhammadsyifaaul
+- 👋 Hi, I’m Muhammad Syifaaul Jinan
 - 👀 I’m interested in web programming
 - 🌱 I’m currently learning express js
 - 💞️ I’m looking to collaborate on ...
