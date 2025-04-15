@@ -3,7 +3,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="[/path/to/anime-character-1.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanA5ZXk2Y2o3bzgxbmpzcWVnM2xlMTVuaTZkd2JvZ21wN3EwNTg2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/68O3K8YoyQRvG/giphy.gif)" alt="GitHub Stats"/>
+  <img height="180em" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanA5ZXk2Y2o3bzgxbmpzcWVnM2xlMTVuaTZkd2JvZ21wN3EwNTg2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/68O3K8YoyQRvG/giphy.gif"/>
   <img height="180em" src="/path/to/anime-character-2.gif" alt="GitHub Streak"/>
 </div>
 
