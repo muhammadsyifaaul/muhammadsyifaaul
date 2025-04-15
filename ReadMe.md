@@ -26,7 +26,7 @@ Hi there! I'm a passionate developer and anime enthusiast. Welcome to my digital
 ## 🌈 Gallery
 
 <div align="center">
-  <img src="/path/to/anime-character-3.gif" width="100" alt="Anime Character 1"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanA5ZXk2Y2o3bzgxbmpzcWVnM2xlMTVuaTZkd2JvZ21wN3EwNTg2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/68O3K8YoyQRvG/giphy.gif" width="100" alt="Anime Character 1"/>
   <img src="/path/to/anime-character-4.gif" width="100" alt="Anime Character 2"/>
   <img src="/path/to/anime-character-5.gif" width="100" alt="Anime Character 3"/>
   <img src="/path/to/anime-character-6.gif" width="100" alt="Anime Character 4"/>
