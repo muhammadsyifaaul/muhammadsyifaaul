@@ -1,12 +1,5 @@
 # 🌸 Welcome to My GitHub Profile! 🌸
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanA5ZXk2Y2o3bzgxbmpzcWVnM2xlMTVuaTZkd2JvZ21wN3EwNTg2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/68O3K8YoyQRvG/giphy.gif"/>
-  <img height="180em" src="/path/to/anime-character-2.gif" alt="GitHub Streak"/>
-</div>
-
 ## 🌟 About Me
 
 Hi there! I'm a passionate developer and anime enthusiast. Welcome to my digital world! 🚀
@@ -26,10 +19,10 @@ Hi there! I'm a passionate developer and anime enthusiast. Welcome to my digital
 ## 🌈 Gallery
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanA5ZXk2Y2o3bzgxbmpzcWVnM2xlMTVuaTZkd2JvZ21wN3EwNTg2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/68O3K8YoyQRvG/giphy.gif" width="100" alt="Anime Character 1"/>
-  <img src="/path/to/anime-character-4.gif" width="100" alt="Anime Character 2"/>
-  <img src="/path/to/anime-character-5.gif" width="100" alt="Anime Character 3"/>
-  <img src="/path/to/anime-character-6.gif" width="100" alt="Anime Character 4"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanA5ZXk2Y2o3bzgxbmpzcWVnM2xlMTVuaTZkd2JvZ21wN3EwNTg2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/68O3K8YoyQRvG/giphy.gif"  alt="Anime Character 1"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDVweG51anU2Njh0ZHg3aGlkbzFuejQ2bDB4bmkxczB1bzc0Y25zbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PAkrtJgGaygxbXcV9r/giphy.gif"  alt="Anime Character 2"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWpidm9meXFyZTZ4cmNqd25yajE4bmEya3d1bjQ4aDNkbm04cHNtYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jCaU8WfesJfH2/giphy.gif"  alt="Anime Character 3"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl4NmpqOXZsYXloZ3RjeDFzeTNtdHE1OGtpdTJyNXAybXg2NmhxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/adlPS9aMT2CNG/giphy.gif" alt="Anime Character 4"/>
   <img src="/path/to/anime-character-7.gif" width="100" alt="Anime Character 5"/>
 </div>
 
