@@ -17,7 +17,7 @@ Hi there! I'm a passionate developer and anime enthusiast. Welcome to my digital
   <img src="https://i.pinimg.com/originals/12/27/87/1227871fe4361ab20682a552629faf3a.jpg" alt="JavaScript"/>
   <img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/NodeJs/Girl_With_Glasses_Blue_Eyes_Covering_Face_With_Express_In_Action_Book.png" width="240" height="367" />
   <img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/NodeJs/Black_Haired_Girl_With_Scarf_Holding_NodeJs_Design_Patterns_Book.png" width="240" height="367" />
-  <img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/MongoDB/Nishimiya_Shouko_Learn_MongoDB.jpg" width="240" height="367" />
+  <img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/MongoDB/Nishimiya_Shouko_Learn_MongoDB.jpg" />
   <img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Python/Hirasawa_Yui_Studying_For_interview.png" />
 </div>
 
