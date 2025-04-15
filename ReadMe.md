@@ -19,6 +19,7 @@ Hi there! I'm a passionate developer and anime enthusiast. Welcome to my digital
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="40" alt="React"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="40" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="40" alt="Node.js"/>
+  <img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/NodeJs/Girl_With_Glasses_Blue_Eyes_Covering_Face_With_Express_In_Action_Book.png" />
 </div>
 
 ## 🌈 Gallery
