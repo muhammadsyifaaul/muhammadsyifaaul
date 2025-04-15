@@ -15,7 +15,7 @@ Hi there! I'm a passionate developer and anime enthusiast. Welcome to my digital
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="40" alt="Python"/>
-  <img src="https://i.pinimg.com/originals/12/27/87/1227871fe4361ab20682a552629faf3a.jpg" height="40" alt="JavaScript"/>
+  <img src="https://i.pinimg.com/originals/12/27/87/1227871fe4361ab20682a552629faf3a.jpg" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="40" alt="React"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="40" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="40" alt="Node.js"/>
