@@ -19,7 +19,7 @@ Hi there! I'm a passionate developer and anime enthusiast. Welcome to my digital
 ## 🌈 Gallery
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDFtMmFrZDllNzc2czd3azJvMGNienN0Ymhpd3BnZTV6Z2lyZjNzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xJlOdEYy0r7ZS/giphy.gif" width="200" height="110"  alt="Anime Character 1"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDFtMmFrZDllNzc2czd3azJvMGNienN0Ymhpd3BnZTV6Z2lyZjNzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xJlOdEYy0r7ZS/giphy.gif" width="200" height="112"  alt="Anime Character 1"/>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3licHliMGIydHlhdWR1eTdlMm1lZ2V1YWt6bjJkeTE5aWVzb25odyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpAkCCGu2saR2/giphy.gif"  
  width="200" alt="Anime Character 2"/>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnB6N3N4ODQwNXlvaTR1Zzd5YjAxN3hvaHlvcnpobTd2NTkyZTUydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lexAKLWWc0Cc/giphy.gif"  
