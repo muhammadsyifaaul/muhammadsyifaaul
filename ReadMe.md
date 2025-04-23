@@ -29,14 +29,14 @@ Hi there! I'm a passionate developer and anime enthusiast. Welcome to my digital
  width="200" alt="Anime Character 4"/>
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamd4dHVvZHdpcDRvZWc4a3RqdmQ0eG1lcGdzZ2xwMXg4aDlhcDM2NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZbV0qswrAlFK0/giphy.gif" 
  width="200" alt="Anime Character 5"/>
- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTE4d3JheGl6eWl2dTA5NmF4NmN4Y2lpbmxkbnYwOWQ5bHpnbmRuNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uYTPFchXyCm0S5Pm3r/giphy.gif" 
- width="200" alt="Anime Character 6"/>
+ 
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXU0dDgxNW10c3pldzJlZmNqb3d3Z3p5NDE0eDNzbWZ1aHZmdWFpeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WSMLoLTXoTglKYtKBJ/giphy.gif" 
  width="200" alt="Anime Character 7"/>
 </div>
 
 <div align="center">
-  <img src="/path/to/anime-character-8.gif" width="100" alt="Anime Character 6"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTE4d3JheGl6eWl2dTA5NmF4NmN4Y2lpbmxkbnYwOWQ5bHpnbmRuNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uYTPFchXyCm0S5Pm3r/giphy.gif" 
+ width="200" alt="Anime Character 6"/>
   <img src="/path/to/anime-character-9.gif" width="100" alt="Anime Character 7"/>
   <img src="/path/to/anime-character-10.gif" width="100" alt="Anime Character 8"/>
   <img src="/path/to/anime-character-11.gif" width="100" alt="Anime Character 9"/>
