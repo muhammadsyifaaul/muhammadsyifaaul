@@ -37,10 +37,14 @@ Hi there! I'm a passionate developer and anime enthusiast. Welcome to my digital
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTE4d3JheGl6eWl2dTA5NmF4NmN4Y2lpbmxkbnYwOWQ5bHpnbmRuNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uYTPFchXyCm0S5Pm3r/giphy.gif" 
  width="200" alt="Anime Character 6"/>
-  <img src="/path/to/anime-character-9.gif" width="100" alt="Anime Character 7"/>
-  <img src="/path/to/anime-character-10.gif" width="100" alt="Anime Character 8"/>
-  <img src="/path/to/anime-character-11.gif" width="100" alt="Anime Character 9"/>
-  <img src="/path/to/anime-character-12.gif" width="100" alt="Anime Character 10"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTE4d3JheGl6eWl2dTA5NmF4NmN4Y2lpbmxkbnYwOWQ5bHpnbmRuNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uYTPFchXyCm0S5Pm3r/giphy.gif" 
+ width="200" alt="Anime Character 7"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTE4d3JheGl6eWl2dTA5NmF4NmN4Y2lpbmxkbnYwOWQ5bHpnbmRuNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uYTPFchXyCm0S5Pm3r/giphy.gif" 
+ width="200" alt="Anime Character 8"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTE4d3JheGl6eWl2dTA5NmF4NmN4Y2lpbmxkbnYwOWQ5bHpnbmRuNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uYTPFchXyCm0S5Pm3r/giphy.gif" 
+ width="200" alt="Anime Character 9"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTE4d3JheGl6eWl2dTA5NmF4NmN4Y2lpbmxkbnYwOWQ5bHpnbmRuNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uYTPFchXyCm0S5Pm3r/giphy.gif" 
+ width="200" alt="Anime Character 10"/>
 </div>
 
 ## 📞 Contact Me
