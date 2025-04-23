@@ -27,6 +27,8 @@ Hi there! I'm a passionate developer and anime enthusiast. Welcome to my digital
   
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl4NmpqOXZsYXloZ3RjeDFzeTNtdHE1OGtpdTJyNXAybXg2NmhxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/adlPS9aMT2CNG/giphy.gif" 
  width="200" alt="Anime Character 4"/>
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamd4dHVvZHdpcDRvZWc4a3RqdmQ0eG1lcGdzZ2xwMXg4aDlhcDM2NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZbV0qswrAlFK0/giphy.gif" 
+ width="200" alt="Anime Character 5"/>
 </div>
 
 <div align="center">
