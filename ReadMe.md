@@ -45,6 +45,10 @@ Hi there! I'm a passionate developer and anime enthusiast. Welcome to my digital
  width="200" alt="Anime Character 9"/>
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTE4d3JheGl6eWl2dTA5NmF4NmN4Y2lpbmxkbnYwOWQ5bHpnbmRuNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uYTPFchXyCm0S5Pm3r/giphy.gif" 
  width="200" alt="Anime Character 10"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTE4d3JheGl6eWl2dTA5NmF4NmN4Y2lpbmxkbnYwOWQ5bHpnbmRuNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uYTPFchXyCm0S5Pm3r/giphy.gif" 
+ width="200" alt="Anime Character 11"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTE4d3JheGl6eWl2dTA5NmF4NmN4Y2lpbmxkbnYwOWQ5bHpnbmRuNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uYTPFchXyCm0S5Pm3r/giphy.gif" 
+ width="200" alt="Anime Character 12"/>
 </div>
 
 ## 📞 Contact Me
