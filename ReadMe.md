@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Anime Banner](https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif)
+![Anime Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHFyMmxkMnY3ZXo3aTF3b2swcHBxY2h5Z3MwYjJweWhwa2FkNDU1byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/adlPS9aMT2CNG/giphy.gif)
 
 ### ✨ *"Code is like magic - with the right incantation, anything is possible!"* ✨
 
@@ -109,7 +109,7 @@ Not Have Sorry
 - 🍙 I debug best with onigiri and green tea
 - 🎌 My variable names are sometimes in Japanese (don't judge!)
 - 🌸 I have a collection of anime programming stickers on my laptop
-- 🗾 Dream job: Working for Studio Ghibli's tech team
+- 🗾 Dream job: ?
 - 🎭 I practice coding while listening to anime OSTs
 
 ---
