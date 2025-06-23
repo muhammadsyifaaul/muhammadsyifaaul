@@ -95,8 +95,8 @@ Not Have Sorry
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-Tsundere%20Mode-FF69B4?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Senpai-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=blue)](https://linkedin.com/in/yourusername)
+[![Twitter](https://img.shields.io/badge/Twitter-Cool%20Mode-FF69B4?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Maybe-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=blue)](https://linkedin.com/in/yourusername)
 [![Discord](https://img.shields.io/badge/Discord-Anime%20Guild-DDA0DD?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourinvite)
 [![Email](https://img.shields.io/badge/Email-Send%20Message-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
