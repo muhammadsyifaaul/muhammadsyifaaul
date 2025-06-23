@@ -14,19 +14,19 @@
 
 ```javascript
 const developer = {
-    name: "YourName",
-    pronouns: "she/her",
-    location: "Tokyo, Digital World 🗾",
-    currentlyWatching: ["Demon Slayer", "Attack on Titan", "Your Name"],
+    name: "Muhammad Syifaaul Jinan",
+    pronouns: "He",
+    location: "Around World 🌎",
+    currentlyWatching: ["Mono", "Hibi wa Sugiredo Meshi Umashi", "Non Non Biyori"],
     favoriteFemaleCharacters: [
-        "Nezuko Kamado 🌸",
-        "Mikasa Ackerman ⚔️", 
-        "Violet Evergarden 💌",
-        "Zero Two 🦋",
+        "Shima Rin 🛵",
+        "Sakurako Shikishima 🛹", 
+        "Victorique de Blois 🧐",
+        "Miya Miyao 🦋",
         "Megumin 💥"
     ],
     codingStyle: "Clean as Tohru's cooking! 🍳",
-    lifeGoal: "To code something as beautiful as Studio Ghibli films ✨"
+    lifeGoal: "I don't know ✨"
 };
 ```
 
@@ -38,9 +38,9 @@ const developer = {
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-Nezuko%20Level-FF6B9D?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Megumin%20Explosion-FFC0CB?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-Violet%20Precision-E6E6FA?style=for-the-badge&logo=typescript&logoColor=blue)
-![Java](https://img.shields.io/badge/Java-Mikasa%20Strong-FFB6C1?style=for-the-badge&logo=java&logoColor=red)
+![JavaScript](https://img.shields.io/badge/JavaScript-Megumin%20Explosion-FFC0CB?style=for-the-badge&logo=javascript&logoColor=yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-Sakurako%20Precision-E6E6FA?style=for-the-badge&logo=typescript&logoColor=blue)
+![Go](https://img.shields.io/badge/Go-Rin%20Strong-FFB6C1?style=for-the-badge&logo=java&logoColor=blue)
 
 ### Frameworks & Tools
 ![React](https://img.shields.io/badge/React-Sailor%20Moon%20Power-FF69B4?style=for-the-badge&logo=react&logoColor=white)
@@ -56,7 +56,7 @@ const developer = {
 
 ### 🗾 **Anime Tracker App**
 > *"Keeping track of waifus... I mean, anime series!"*
-- **Tech Stack:** React, Node.js, MongoDB
+- **Tech Stack:** React, Node.js, MongoDB, Express.js, Go, PHP, Laravel, MySQL
 - **Status:** In Progress 🔄
 - **Inspiration:** MyAnimeList but with more kawaii features
 
@@ -69,7 +69,7 @@ const developer = {
 ### 🍜 **Ramen Recipe Generator**
 > *"Because every developer needs good ramen!"*
 - **Tech Stack:** Python, FastAPI, Machine Learning
-- **Status:** Cooking... I mean Coding! 👩‍🍳
+- **Status:** Cooking... I mean Coding Mwehe! 👩‍🍳
 
 ---
 
@@ -77,9 +77,9 @@ const developer = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula&bg_color=0D1117&title_color=FF6B9D&icon_color=FF69B4&text_color=FFF&border_color=FF6B9D)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadsyifaaul&show_icons=true&theme=dracula&bg_color=0D1117&title_color=FF6B9D&icon_color=FF69B4&text_color=FFF&border_color=FF6B9D)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dracula&bg_color=0D1117&title_color=FF6B9D&text_color=FFF&border_color=FF6B9D)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsyifaaul&layout=compact&theme=dracula&bg_color=0D1117&title_color=FF6B9D&text_color=FFF&border_color=FF6B9D)
 
 </div>
 
@@ -87,14 +87,7 @@ const developer = {
 
 ## 🎭 Favorite Anime Quotes for Coding
 
-> *"The only way to deal with fear is to face it head-on!"* - **Nezuko Kamado**  
-> *(Perfect for debugging sessions)*
-
-> *"I want to become someone who can protect everyone!"* - **Mikasa Ackerman**  
-> *(My approach to writing secure code)*
-
-> *"I'm not going there to die. I'm going to find out if I'm really alive."* - **Violet Evergarden**  
-> *(When trying new technologies)*
+Not Have Sorry
 
 ---
 
