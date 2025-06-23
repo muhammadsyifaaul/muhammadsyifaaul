@@ -1,4 +1,4 @@
-# 🌸 Konnichiwa! Welcome to my Digital World! 🌸
+# 🌸 Aloha! Welcome to my Digital World! 🌸
 
 <div align="center">
   
