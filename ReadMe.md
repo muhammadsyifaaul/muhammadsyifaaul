@@ -40,7 +40,7 @@ const developer = {
 ![Python](https://img.shields.io/badge/Python-Viqtorique%20Beautiful-FF6B9D?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Megumin%20Explosion-FFC0CB?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Sakurako%20Precision-E6E6FA?style=for-the-badge&logo=typescript&logoColor=blue)
-![Golang](https://img.shields.io/badge/Go-Rin%20Chill-FFB6C1?style=for-the-badge&logo=java&logoColor=blue)
+![Golang](https://img.shields.io/badge/Go-Rin's%20Chill-FFB6C1?style=for-the-badge&logo=java&logoColor=blue)
 
 ### Frameworks & Tools
 ![React](https://img.shields.io/badge/React-Sailor%20Moon%20Power-FF69B4?style=for-the-badge&logo=react&logoColor=white)
