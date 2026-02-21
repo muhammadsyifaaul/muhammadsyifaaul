@@ -77,9 +77,8 @@ const developer = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=muhammadsyifaaul&show_icons=true&theme=dracula&bg_color=0D1117&title_color=FF6B9D&icon_color=FF69B4&text_color=FFF&border_color=FF6B9D)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=muhammadsyifaaul&layout=compact&theme=dracula&bg_color=0D1117&title_color=FF6B9D&text_color=FFF&border_color=FF6B9D)
+<!-- Opsi 2: streak stats -->
+![GitHub Streak](https://streak-stats.demolab.com?user=muhammadsyifaaul&theme=dracula&background=0D1117&ring=FF6B9D&fire=FF69B4&currStreakLabel=FF6B9D)
 
 </div>
 
