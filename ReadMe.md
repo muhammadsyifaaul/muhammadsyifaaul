@@ -75,6 +75,8 @@ const developer = {
 
 ## 📊 Battle Stats
 
+## 📊 Battle Stats
+
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadsyifaaul&show_icons=true&theme=dracula&bg_color=0D1117&title_color=FF6B9D&icon_color=FF69B4&text_color=FFF&border_color=FF6B9D)
